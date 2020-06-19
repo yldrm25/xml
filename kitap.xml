@@ -3,7 +3,7 @@
    <book id="bk101">
       <author>François Chollet</author>
       <title>Python ile Derin Öğrenme</title>
-      <genre>Computer</genre>
+      <genre>Bilgisayar</genre>
       <price>175.00</price>
       <publish_date>2019-09</publish_date>
       
@@ -11,7 +11,7 @@
    <book id="bk102">
       <author>Besim Altınok</author>
       <title>Kablosuz Ağ Güvenliği</title>
-      <genre>Computer</genre>
+      <genre>Bilgisayar</genre>
       <price>26.63</price>
       <publish_date>2018-11-12</publish_date>
       
@@ -19,7 +19,7 @@
    <book id="bk103">
       <author>Mustafa Başer</author>
       <title>Python</title>
-      <genre>Computer</genre>
+      <genre>Bilgisayar</genre>
       <price>41.25</price>
       <publish_date>2020-02-17</publish_date>
       
@@ -27,7 +27,7 @@
    <book id="bk104">
       <author>Kemal Demirez</author>
       <title>Linux Komut Satırı</title>
-      <genre>Computer</genre>
+      <genre>Bilgisayar</genre>
       <price>25.50</price>
       <publish_date>2019-12-03</publish_date>
      
@@ -76,7 +76,7 @@
    <book id="bk110">
       <author>O'Brien, Tim</author>
       <title>Microsoft .NET: The Programming Bible</title>
-      <genre>Computer</genre>
+      <genre>Bilgisayar</genre>
       <price>36.95</price>
       <publish_date>2000-12-09</publish_date>
    
@@ -84,7 +84,7 @@
    <book id="bk111">
       <author>O'Brien, Tim</author>
       <title>MSXML3: A Comprehensive Guide</title>
-      <genre>Computer</genre>
+      <genre>Bilgisayar</genre>
       <price>36.95</price>
       <publish_date>2000-12-01</publish_date>
    
@@ -92,7 +92,39 @@
    <book id="bk112">
       <author>Galos, Mike</author>
       <title>Visual Studio 7: A Comprehensive Guide</title>
-      <genre>Computer</genre>
+      <genre>Bilgisayar</genre>
+      <price>49.95</price>
+      <publish_date>2001-04-16</publish_date>
+	  
+	   </book>
+   <book id="bk112">
+      <author>Thea Alexander</author>
+      <title>M. S. 2150 - Bir Makro Felsefe Klasiği</title>
+      <genre>Hobi</genre>
+      <price>28.80</price>
+      <publish_date>1997-04-16</publish_date>
+	
+	   </book>
+   <book id="bk112">
+      <author>Galos, Mike</author>
+      <title>Visual Studio 7: A Comprehensive Guide</title>
+      <genre>Bilgisayar</genre>
+      <price>49.95</price>
+      <publish_date>2001-04-16</publish_date>
+	
+	   </book>
+   <book id="bk112">
+      <author>İsmail YILDIRIM</author>
+      <title>Saçmalıklar</title>
+      <genre>Genel</genre>
+      <price>100.000</price>
+      <publish_date>2020-06-19</publish_date>
+	
+	   </book>
+   <book id="bk112">
+      <author>Galos, Mike</author>
+      <title>Visual Studio 7: A Comprehensive Guide</title>
+      <genre>Bilgisayar</genre>
       <price>49.95</price>
       <publish_date>2001-04-16</publish_date>
    
